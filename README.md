@@ -63,20 +63,22 @@ Optimized the customer database and managed reservations for a luxury car rental
 
 ## Notable Projects
 
-### [Isschat - Enterprise RAG Chatbot](https://github.com/Isskar/Isschat) 
-Full RAG system deployed in production on **Azure** with CI/CD pipeline via GitHub Actions. Multi-criteria automated evaluation (robustness, relevance, user satisfaction). Reduced internal documentation search time by **90%**.
+### [Isschat - Enterprise RAG Chatbot](https://github.com/Isskar/Isschat)
+`Python` · `RAG` · `Weaviate` · `Streamlit` · `Azure` · `Docker` · `LLM as a Judge` · `CI/CD`
+
+Full RAG system deployed in production on **Azure** with CI/CD pipeline via GitHub Actions. Semantic search over Confluence knowledge bases using vector embeddings (Weaviate + HNSW), LLM-based query reformulation, and multi-criteria automated evaluation (robustness, relevance, user satisfaction). Reduced internal documentation search time by **90%**.
 
 ---
 
 ### [Global Greenhouse Gas Emissions Dashboard](https://github.com/NicolasLMP/Global-Greenhouse-Gas-Emissions-Dashboard)
-`R` · Shiny
+`R` · `Shiny` · `ggplot2` · `Interactive Data Visualization`
 
 Interactive dashboard for exploring global greenhouse gas emissions data from 1854 to 2023. Advanced visualizations and statistical analysis.
 
 ---
 
 ### [Computer Vision Notebooks](https://github.com/NicolasLMP/computer-vision-notebooks)
-`Python` · Jupyter
+`Python` · `YOLOv8` · `YOLOX` · `RT-DETR` · `Keras` · `Model Benchmarking`
 
 Experimentation notebooks in Computer Vision — benchmarking object detection models (YOLOv8, YOLOX, RT-DETR) on a custom dataset.
 
